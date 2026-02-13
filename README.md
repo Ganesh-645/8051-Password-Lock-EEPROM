@@ -81,7 +81,31 @@ This project is for learning and educational purpose.
 - Press # to submit
 - Press D(div symbol) to change password
 - After 3 wrong attempts system locks
+  
+---
 
+## Simulation Results
+
+### Enter Password
+![Enter](Images/enter_pass.png)
+
+### Access Granted
+![Granted](Images/access_granted.png)
+
+### Wrong Password
+![Wrong](Images/wrong_pass.png)
+
+### System Locked
+![Locked](Images/locked.png)
+
+### Enter Old Password
+![Old](Images/old_pass.png)
+
+### Set New Password
+![New](Images/new_pass.png)
+
+### Password Updated
+![Updated](Images/pass_updated.png)
 
 
 
