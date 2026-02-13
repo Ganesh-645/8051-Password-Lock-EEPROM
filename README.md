@@ -79,8 +79,9 @@ This project is for learning and educational purpose.
 
 - Enter 4-digit password
 - Press # to submit
-- Press D to change password
+- Press D(div symbol) to change password
 - After 3 wrong attempts system locks
+
 
 
 
