@@ -66,3 +66,11 @@ ECE Student | Embedded Systems Enthusiast
 
 ## 📜 License
 This project is for learning and educational purpose.
+
+---
+
+## Circuit Diagram
+
+![Circuit](Images/circuit.png)
+
+
