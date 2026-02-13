@@ -73,4 +73,15 @@ This project is for learning and educational purpose.
 
 ![Circuit](Images/circuit.png)
 
+---
+
+## Working Demo
+
+- Enter 4-digit password
+- Press # to submit
+- Press D to change password
+- After 3 wrong attempts system locks
+
+
+
 
